@@ -14,7 +14,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   https://github.com/DishanGimhan24/Irusri-Group-Web-developer-task.git
+https://github.com/DishanGimhan24/futurec-technologies.git
    
 2.Start the application with the following command:
 npm start
